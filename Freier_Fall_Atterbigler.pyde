@@ -1,4 +1,4 @@
-planeten = ["Erde","Mond","Sonne"]
+planeten = ["Erde","Moon","Sonne"]
 g_planeten = [9.81, 1.62, 274.0]
 s_werte = [0,0,0]
 v_werte = [0,0,0]
